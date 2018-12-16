@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\CameraMinimap.cs" />
     <Compile Include="Assets\Scripts\Cameras.cs" />
     <Compile Include="Assets\Scripts\CameraTriggers.cs" />
+    <Compile Include="Assets\Scripts\MouseClicks.cs" />
     <Compile Include="Assets\Scripts\ObjectScaling.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
